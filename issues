@@ -1,1 +1,5 @@
 To report issues, click on the Issues tab, above.
+Navigation button Flow Component:
+I'm finding that the button clicked variables are not being set when I click on the buttons in a flow that I have running in a preview of Winter '23. 
+The exact same flow running in production is working fine (the variables are set and I am able to fork based on their settings)
+Could there be an issue with Winter '23 and these buttons?
